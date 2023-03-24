@@ -1,3 +1,3 @@
 # ancetetere.github.io
 
-This website is for Ance Tetere.
+> This is a website for Ance Tetere.
